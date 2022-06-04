@@ -1,1 +1,1 @@
-export const urlApi = 'http://192.168.1.109:1337'
+export const urlApi = 'http://IPDaMaquina:1337'
